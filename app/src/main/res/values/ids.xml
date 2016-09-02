@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idEditTextCardExp" type="id"/>
+    <item name="idEditTextCardNumber" type="id"/>
+    <item name="idEditTextCVV" type="id"/>
+</resources>

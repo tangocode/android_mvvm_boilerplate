@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lighterGray">#FAFAFA</color>
+    <color name="lightGray">#DBDBDB</color>
+    <color name="darkGray">#707070</color>
+    <color name="darkGray40">#70707066</color>
+    <color name="lightGreen100">#88C499</color>
+    <color name="lightGreen60">#6088c499</color>
+    <color name="lightGreen30">#3088c499</color>
+    <color name="darkerGreen">#28702F</color>
+    <color name="darkGreen1">#48A563</color>
+    <color name="darkGreen2">#5E936D</color>
+    <color name="darkBlue">#212F36</color>
+    <color name="darkBlue2">#1E272B</color>
+    <color name="red">#D02645</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="buttonWithBackgroundHighlighted">#6DC791</color>
+    <color name="black">#1E272B</color>
+    <color name="black50">#80FFFFFF</color>
+</resources>

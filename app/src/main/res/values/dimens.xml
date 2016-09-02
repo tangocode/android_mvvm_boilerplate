@@ -1,0 +1,49 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">18dp</dimen>
+    <dimen name="activity_vertical_margin">18dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Element heights. -->
+    <dimen name="button_height">44dp</dimen>
+    <!-- Font sizes. -->
+    <dimen name="buttons_font_size_small">14dp</dimen>
+    <dimen name="buttons_font_size_regular">16dp</dimen>
+    <dimen name="buttons_next_height">50dp</dimen>
+    <dimen name="font_size_extra_small">10sp</dimen>
+    <dimen name="font_size_small">14sp</dimen>
+    <dimen name="font_size_regular">16sp</dimen>
+    <dimen name="font_size_large">18sp</dimen>
+    <dimen name="font_size_extra_large">20sp</dimen>
+    <dimen name="font_size_title">20sp</dimen>
+    <dimen name="font_size_card_number">25sp</dimen>
+
+    <dimen name="green_buttons_container_height">65dp</dimen>
+    <dimen name="margin_screen_edge">10dp</dimen>
+    <dimen name="margin_screen_top_edge">20dp</dimen>
+    <dimen name="margin_screen_bottom_edge">5dp</dimen>
+    <dimen name="copy_right_text_size">12dp</dimen>
+
+    <dimen name="quick_balance_label_size">20sp</dimen>
+
+    <dimen name="notification_banner_height">55dp</dimen>
+
+    <dimen name="fragment_step_top_margin">10dp</dimen>
+    <dimen name="fragment_step_title_size">24sp</dimen>
+    <dimen name="fragment_step_subtitle_size">14dp</dimen>
+    <dimen name="fragment_step_feedback_message_size">12sp</dimen>
+    <dimen name="fragment_step_subtitle_margin_top">10dp</dimen>
+    <dimen name="fragment_step_form_margin_top">08dp</dimen>
+
+    <dimen name="offers_item_height">160dp</dimen>
+    <dimen name="offers_item_header_height">25dp</dimen>
+    <dimen name="item_margin">4dp</dimen>
+
+    <dimen name="products_item_title">16sp</dimen>
+    <dimen name="products_item_expanded_height">300dp</dimen>
+
+    <dimen name="form_text_field_height">70dp</dimen>
+    <dimen name="form_area_text_field_height">140dp</dimen>
+    <dimen name="form_text_field_text_sizes">16sp</dimen>
+    <dimen name="form_send_text_sizes">22sp</dimen>
+
+</resources>
